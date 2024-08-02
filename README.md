@@ -1,2 +1,2 @@
 # UE5_Destiny
-Destiny 2 inspired FPS game made in Unreal Engine 5
+FPS game demo with basic features and AI made in Unreal Engine 5
